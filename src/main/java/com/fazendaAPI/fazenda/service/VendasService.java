@@ -1,6 +1,7 @@
 package com.fazendaAPI.fazenda.service;
 
 import com.fazendaAPI.fazenda.DTO.VendasDTO;
+import com.fazendaAPI.fazenda.Exceptions.ResourceNotFoundException;
 import com.fazendaAPI.fazenda.model.Animal;
 import com.fazendaAPI.fazenda.model.Cliente;
 import com.fazendaAPI.fazenda.model.Fazenda;
